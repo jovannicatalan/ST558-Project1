@@ -1,5 +1,10 @@
-Here you can say lots of fun things about your site.
+Hi, my name is Jovanni. I'm currently in the Statistics Master's program at NC State. I am also a full time software developer.
 
-Maybe say a some things about yourself.
+- 👀 I’m interested in __sports__, __programming__ and __statistics__
+- 🌱 I’m currently learning about <code>Data Science For Statisticians</code>
+- 💞️ I’m looking to collaborate on _data science_ projects!
+- 📫 How to reach me: jcatala@ncsu.edu
+-
+I will be blogging about Project 1 in my ST 558 Data Science in R course.
 
-Or maybe what you plan to blog about.
+([google](https://www.google.com/?client=safari))
