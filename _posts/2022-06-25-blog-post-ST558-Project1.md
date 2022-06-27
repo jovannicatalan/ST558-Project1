@@ -21,4 +21,5 @@ at times.
 
 __Repo Links__:
 [Regular Repo](https://github.com/jovannicatalan/ST558-Project1)
-[github pages Repo](https://jovannicatalan.github.io/ST558-Project1/)
+[github pages Repo](https://jovannicatalan.github.io/ST558-Project1/)  
+[Old Repo](https://jovannicatalan.github.io/)
